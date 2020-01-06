@@ -5,17 +5,46 @@
 {comment: 前奏}
 {rhythm: (d. u. d) (d. u. d) (d. u. d) (d - - -) }
 
-{comment: 恋爱ING}
+{comment: 恋爱ing}
 
-你是[C]空气   [G]但是好闻   [Am]胜过了空[Em]气
-你是[F]阳光   [C]但是却能   [Dm]照进半夜[G]里
-水能[C]载舟   [G]也能煮粥   [Am]喂饱了生[Em]命
-你就[F]是维他命   [C]Love   [Dm]L-O-V-E!   [G]L-O-V-E!
+陪你[C]熬夜   [G]聊天到爆   [Am]肝也没关[Em7]系
+陪你[F]逛街   [C]逛成扁平   [Dm]足也没关[G]系
+超感[C]谢你   [G]让我重生   [Am]整个o-r-[Em7]z
+让我[F]重新认识   [C]Lov-   [Dm]e~   [G]~
 
-恋爱I-[C]N-G   [G]Happy   [Am]I-N-[Em]G
+恋爱i-[C]n-g   [G]Happy   [Am]i-n-[Em7]g
 心情就[F]像是   [C]坐上   [Dm]一台喷射[G]机
-恋爱I-[C]N-G   [G]改变   [Am]I-N-[Em]G
-改变了[F]黄昏   [C]黎明   [Dm]有你都[G]心跳到*不行
+恋爱i-[C]n-g   [G]改变   [Am]i-n-[Em7]g
+改变了[F]黄昏   [C]黎明   [Dm]有你都[G]心跳到[C]不行
+
+你是[C]空气   [G]但是好闻   [Am]胜过了空[Em7]气
+你是[F]阳光   [C]但是却能   [Dm]照进半夜[G]里
+水能[C]载舟   [G]也能煮粥   [Am]喂饱了生[Em7]命
+你就[F]是维他命   [C]Lov-   [Dm]e~   [G]~
+
+恋爱i-[C]n-g   [G]Happy   [Am]i-n-[Em7]g
+心情就[F]像是   [C]坐上   [Dm]一台喷射[G]机
+恋爱i-[C]n-g   [G]改变   [Am]i-n-[Em7]g
+改变了[F]黄昏   [C]黎明   [Dm]有你都[G]心跳到[C]不行
+
+{comment: 桥段(可选，待定)}
+
+未来[Am]某年某月某日某时[Am]某分某秒
+某人某地[G]某种永远的心[G]情
+不会[F]忘记此刻 [F]l o v e
+
+l-o-v-e ! l-o-v-e!
+l-o-v-e ! l-o-v-e!
+
+{comment: 收尾}
+
+恋爱i-[C]n-g   [G]Happy   [Am]i-n-[Em7]g
+心情就[F]像是   [C]坐上   [Dm]一台喷射[G]机
+恋爱i-[C]n-g   [G]改变   [Am]i-n-[Em7]g
+改变了[F]黄昏   [C]黎明   [Dm]有你都[G]心跳到[C]不行
+[F]黄昏  [G]黎明  [F]整个都[G]恋爱i-[C]n-g
+
+{comment: 停顿喘口气...}
 
 {comment: 间奏}
 C  Am  F  G
